@@ -1,0 +1,6 @@
+# Use the official Nginx image as a base image
+FROM nginx:alpine
+
+# Copy the HTML files into the container
+COPY enter_data.html /usr/share/nginx/html/enter_data.html
+COPY view_data.html /usr/share/nginx/html/view_data.html
