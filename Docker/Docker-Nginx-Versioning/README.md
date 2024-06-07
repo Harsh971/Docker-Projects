@@ -107,10 +107,10 @@ index2.html
 
 ```
 
-	<img src="https://github.com/Harsh971/Docker-Projects/blob/main/Docker/Docker-Nginx-Versioning/image1.png"></img>
+<img src="https://github.com/Harsh971/Docker-Projects/blob/main/Docker/Docker-Nginx-Versioning/image1.png"></img>
 
-	<img src="https://github.com/Harsh971/Docker-Projects/blob/main/Docker/Docker-Nginx-Versioning/image2.png"></img>
+<img src="https://github.com/Harsh971/Docker-Projects/blob/main/Docker/Docker-Nginx-Versioning/image2.png"></img>
 
-	<img src="https://github.com/Harsh971/Docker-Projects/blob/main/Docker/Docker-Nginx-Versioning/image3.png"></img>
+<img src="https://github.com/Harsh971/Docker-Projects/blob/main/Docker/Docker-Nginx-Versioning/image3.png"></img>
 
-	<img src="https://github.com/Harsh971/Docker-Projects/blob/main/Docker/Docker-Nginx-Versioning/image4.png"></img>
+<img src="https://github.com/Harsh971/Docker-Projects/blob/main/Docker/Docker-Nginx-Versioning/image4.png"></img>
