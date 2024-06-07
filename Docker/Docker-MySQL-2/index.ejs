@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Node.js MySQL CRUD App</title>
+</head>
+<body>
+    <h1>Users</h1>
+    <ul>
+        <% users.forEach(user => { %>
+            <li><%= user.name %> - <%= user.email %></li>
+        <% }); %>
+    </ul>
+    <h2>Add User</h2>
+    <form action="/add" method="post">
+        <input type="text" name="name" placeholder="Name" required>
+        <input type="email" name="email" placeholder="Email" required>
+        <button type="submit">Add User</button>
+    </form>
+</body>
+</html>
