@@ -102,7 +102,9 @@ After the build is successful, run the Docker container for serving the HTML fil
     
   <img src="https://github.com/Harsh971/Docker-Projects/blob/main/Docker/Docker-MySQL/image2.png"></img>
     
-    1. **Create Dockerfile for MySQL**:
+   
+   
+1. **Create Dockerfile for MySQL**:
     Create a Dockerfile named **`Dockerfile.mysql`** in the project directory to set up MySQL with a custom database and table.
         
         ```
